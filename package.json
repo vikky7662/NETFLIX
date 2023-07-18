@@ -1,13 +1,13 @@
 {
-  "name": "netflix",
+  "name": "Netflix",
   "version": "1.0.0",
   "description": "",
   "main": "netflix.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [Netflix Clone],
+  "author": "Vignesh",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
